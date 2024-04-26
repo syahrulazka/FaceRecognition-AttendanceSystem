@@ -4,8 +4,8 @@ This project focuses on developing a face recognition system for employee attend
 
 Collaborators:
 
-• Alfathamdi Putra Umaryadi
-• Syahel Rusfi Razaba
-• Syahrul Azka
+* Alfathamdi Putra Umaryadi
+* Syahel Rusfi Razaba
+* Syahrul Azka
 
 These collaborators are students of the Mathematics program at the Faculty of Science and Technology, UIN Syarif Hidayatullah Jakarta.
